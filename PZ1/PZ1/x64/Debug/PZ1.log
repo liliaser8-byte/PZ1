@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Користувач\Desktop\2 СЕМЕСТР\PZ1\MyForm.h(402,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PZ1.vcxproj -> C:\Users\Користувач\Desktop\2 СЕМЕСТР\PZ1\x64\Debug\PZ1.exe
